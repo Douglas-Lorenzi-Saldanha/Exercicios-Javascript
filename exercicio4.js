@@ -1,4 +1,4 @@
-const texto = Array.from("meu pau tem oculos");
+const texto = Array.from("meu pai tem oculos");
 let tira;
 let coloca;
 let i = 0;
